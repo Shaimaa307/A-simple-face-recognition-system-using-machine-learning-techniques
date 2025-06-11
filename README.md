@@ -23,12 +23,16 @@ Key Features
 📈 Comprehensive performance evaluation
 
 🚀 Getting Started
+
 Prerequisites
+
 Python 3.8+
 
 Libraries: scikit-learn, OpenCV, NumPy, Matplotlib
 
 📊 Performance Metrics
 Model	Accuracy	F1-Score	Training Time
+
 KNN (Supervised)	98.2%	0.981	0.5s
+
 Label Propagation	96.7%	0.965	2.1s

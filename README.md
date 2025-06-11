@@ -11,6 +11,7 @@ Both supervised (KNN) and semi-supervised (Label Propagation) learning approache
 ![flowChart](https://github.com/user-attachments/assets/ca67b55b-7d5c-4fb0-86fa-378777a5624c)
 
 Key Features
+
 🖼️ Image preprocessing (resizing, grayscale conversion)
 
 📊 Dimensionality reduction with PCA (100 components)
